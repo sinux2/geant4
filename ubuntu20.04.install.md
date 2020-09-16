@@ -7,13 +7,15 @@ Type the following command. User must have sudo privilege.
 
 #### Required program installs from source  
 To properly run geant4 with visual display, we will need to install **CLHEP 2.4.1.3**, and both **coin** and **soxt** from **Coin3d**.  
-### Installing CLHEP from source  
+
+### Dependancies from source  
+#### Installing CLHEP  
 ...  
 
-### Installing coin  
+#### Installing coin  
 ...  
 
-### Installing soxt
+#### Installing soxt
 ...  
 
 ### Installing geant4
